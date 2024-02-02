@@ -5,23 +5,23 @@
     }
 
     .caja2{
-        background-color: white;
+        background-color: purple;
         width: 110%;
         height: 150px;
-        border: red; 
+        border:pink; 
         border-radius: 1.6cm;
         top: 132px;
         position: absolute;
           }
           
       .caja3{
-          background-color: orange;
+          background-color: powderblue;
           width: 153px;
           height: 108px;
-          border: yellow dashed;
-          border-radius: 7px; 
+          border: plum;
+          border-radius: 8px; 
           position: absolute;
-          top: 280px;
+          top: 270px;
           right: 50%;
               
           }
