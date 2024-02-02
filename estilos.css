@@ -1,38 +1,38 @@
-.allcaja{
+.allbox{
     display: flex;
     flex-direction: column;
   
     }
 
-    .caja2{
-        background-color: blue;
+    .box2{
+        background-color: black;
         width: 120%;
         height: 50px;
-        border: blueviolet; 
+        border: purple; 
         border-radius: 1.7cm;
-        top: 135px;
+        top: 145px;
         position: absolute;
           }
           
-      .caja3{
-          background-color: yellow;
+      .box3{
+          background-color: blueviolet;
           width: 153px;
           height: 108px;
-          border: plum;
-          border-radius: 8px; 
+          border: purple;
+          border-radius: 10px; 
           position: absolute;
-          top: 270px;
-          right: 50%;
+          top: 280px;
+          right: 100%;
               
           }
           
-      .caja4{
-          background-color: violet ;
-          width: 141px;
-          height: 10px;
-          border: black;
-          border-radius: 1cm 25cm 28cm 1cm;
+      .box4{
+          background-color: blue ;
+          width: 151px;
+          height: 15px;
+          border: white;
+          border-radius: 2cm 5cm 8cm 15cm;
           position: absolute;
-          top: 372px;
-          right: 12%;
+          top: 382px;
+          right: 15%;
         }
