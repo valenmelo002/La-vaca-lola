@@ -5,17 +5,17 @@
     }
 
     .caja2{
-        background-color: purple;
-        width: 110%;
-        height: 150px;
-        border:pink; 
-        border-radius: 1.6cm;
-        top: 132px;
+        background-color: blue;
+        width: 120%;
+        height: 50px;
+        border: blueviolet; 
+        border-radius: 1.7cm;
+        top: 135px;
         position: absolute;
           }
           
       .caja3{
-          background-color: powderblue;
+          background-color: yellow;
           width: 153px;
           height: 108px;
           border: plum;
