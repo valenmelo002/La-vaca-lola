@@ -15,18 +15,18 @@
           }
           
       .caja3{
-          background-color: blue;
+          background-color: orange;
           width: 153px;
           height: 108px;
-          border: black dashed;
+          border: yellow dashed;
           border-radius: 7px; 
           position: absolute;
-          top: 270px;
-          right: 51%;
+          top: 280px;
+          right: 50%;
               
           }
           
-      .chest4{
+      .caja4{
           background-color: violet ;
           width: 141px;
           height: 10px;
